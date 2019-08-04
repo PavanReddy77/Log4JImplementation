@@ -1,0 +1,12 @@
+2019-08-04 21:09:31,083  INFO [main] LoginTest:24 - ----------Launching Chrome Browser----------
+2019-08-04 21:09:37,613  INFO [main] LoginTest:31 - Launching CRMPRO Application
+2019-08-04 21:09:37,628  INFO [main] LoginTest:42 - Starting freeCrmTitleTest
+2019-08-04 21:09:37,744  INFO [main] LoginTest:45 - Printing Title of Application
+2019-08-04 21:09:37,748  INFO [main] LoginTest:47 - Closing freeCrmTitleTest
+2019-08-04 21:09:38,370  INFO [main] LoginTest:64 - ----------Closing CRMPRO Application----------
+2019-08-04 21:09:41,069  INFO [main] LoginTest:24 - ----------Launching Chrome Browser----------
+2019-08-04 21:09:48,623  INFO [main] LoginTest:31 - Launching CRMPRO Application
+2019-08-04 21:09:48,626  INFO [main] LoginTest:53 - Starting freemCRMLogoTest
+2019-08-04 21:09:48,682  INFO [main] LoginTest:56 - Free CRMPRO Logo is Verified
+2019-08-04 21:09:48,683  INFO [main] LoginTest:57 - Closing freemCRMLogoTest
+2019-08-04 21:09:49,331  INFO [main] LoginTest:64 - ----------Closing CRMPRO Application----------
