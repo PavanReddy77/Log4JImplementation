@@ -7,7 +7,6 @@
         <methods>
           <include name="freemCRMLogoTest"/>
           <include name="setUp"/>
-          <include name="tearDown"/>
           <include name="freeCrmTitleTest"/>
         </methods>
       </class> <!-- com.qa.TestCases.LoginTest -->

@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47920" started-at="2019-08-05T14:51:57Z" finished-at="2019-08-05T14:52:45Z">
+  <suite name="Default suite" duration-ms="25308" started-at="2019-08-05T18:22:28Z" finished-at="2019-08-05T18:22:53Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47920" started-at="2019-08-05T14:51:57Z" finished-at="2019-08-05T14:52:45Z">
+    <test name="Default test" duration-ms="25308" started-at="2019-08-05T18:22:28Z" finished-at="2019-08-05T18:22:53Z">
       <class name="com.qa.TestCases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="setUp" is-config="true" duration-ms="33225" started-at="2019-08-05T20:21:57Z" finished-at="2019-08-05T20:22:30Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="setUp" is-config="true" duration-ms="11924" started-at="2019-08-05T23:52:28Z" finished-at="2019-08-05T23:52:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.qa.TestCases.LoginTest@6adede5]" name="freeCrmTitleTest" duration-ms="37" started-at="2019-08-05T20:22:30Z" finished-at="2019-08-05T20:22:30Z">
+        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.qa.TestCases.LoginTest@6adede5]" name="freeCrmTitleTest" duration-ms="38" started-at="2019-08-05T23:52:40Z" finished-at="2019-08-05T23:52:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freeCrmTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="tearDown" is-config="true" duration-ms="658" started-at="2019-08-05T20:22:30Z" finished-at="2019-08-05T20:22:31Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="tearDown" is-config="true" duration-ms="736" started-at="2019-08-05T23:52:40Z" finished-at="2019-08-05T23:52:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="setUp" is-config="true" duration-ms="13266" started-at="2019-08-05T20:22:31Z" finished-at="2019-08-05T20:22:44Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="setUp" is-config="true" duration-ms="11876" started-at="2019-08-05T23:52:41Z" finished-at="2019-08-05T23:52:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="freemCRMLogoTest()[pri:2, instance:com.qa.TestCases.LoginTest@6adede5]" name="freemCRMLogoTest" duration-ms="66" started-at="2019-08-05T20:22:44Z" finished-at="2019-08-05T20:22:44Z">
+        <test-method status="PASS" signature="freemCRMLogoTest()[pri:2, instance:com.qa.TestCases.LoginTest@6adede5]" name="freemCRMLogoTest" duration-ms="81" started-at="2019-08-05T23:52:53Z" finished-at="2019-08-05T23:52:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freemCRMLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="tearDown" is-config="true" duration-ms="645" started-at="2019-08-05T20:22:44Z" finished-at="2019-08-05T20:22:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="tearDown" is-config="true" duration-ms="631" started-at="2019-08-05T23:52:53Z" finished-at="2019-08-05T23:52:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
