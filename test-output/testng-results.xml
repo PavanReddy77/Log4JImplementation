@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22013" started-at="2019-08-04T15:39:27Z" finished-at="2019-08-04T15:39:49Z">
+  <suite name="Default suite" duration-ms="47920" started-at="2019-08-05T14:51:57Z" finished-at="2019-08-05T14:52:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22013" started-at="2019-08-04T15:39:27Z" finished-at="2019-08-04T15:39:49Z">
+    <test name="Default test" duration-ms="47920" started-at="2019-08-05T14:51:57Z" finished-at="2019-08-05T14:52:45Z">
       <class name="com.qa.TestCases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@25bbe1b6]" name="setUp" is-config="true" duration-ms="10270" started-at="2019-08-04T21:09:27Z" finished-at="2019-08-04T21:09:37Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="setUp" is-config="true" duration-ms="33225" started-at="2019-08-05T20:21:57Z" finished-at="2019-08-05T20:22:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.qa.TestCases.LoginTest@25bbe1b6]" name="freeCrmTitleTest" duration-ms="138" started-at="2019-08-04T21:09:37Z" finished-at="2019-08-04T21:09:37Z">
+        <test-method status="PASS" signature="freeCrmTitleTest()[pri:1, instance:com.qa.TestCases.LoginTest@6adede5]" name="freeCrmTitleTest" duration-ms="37" started-at="2019-08-05T20:22:30Z" finished-at="2019-08-05T20:22:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freeCrmTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@25bbe1b6]" name="tearDown" is-config="true" duration-ms="614" started-at="2019-08-04T21:09:37Z" finished-at="2019-08-04T21:09:38Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="tearDown" is-config="true" duration-ms="658" started-at="2019-08-05T20:22:30Z" finished-at="2019-08-05T20:22:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@25bbe1b6]" name="setUp" is-config="true" duration-ms="10249" started-at="2019-08-04T21:09:38Z" finished-at="2019-08-04T21:09:48Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="setUp" is-config="true" duration-ms="13266" started-at="2019-08-05T20:22:31Z" finished-at="2019-08-05T20:22:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="freemCRMLogoTest()[pri:2, instance:com.qa.TestCases.LoginTest@25bbe1b6]" name="freemCRMLogoTest" duration-ms="59" started-at="2019-08-04T21:09:48Z" finished-at="2019-08-04T21:09:48Z">
+        <test-method status="PASS" signature="freemCRMLogoTest()[pri:2, instance:com.qa.TestCases.LoginTest@6adede5]" name="freemCRMLogoTest" duration-ms="66" started-at="2019-08-05T20:22:44Z" finished-at="2019-08-05T20:22:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- freemCRMLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@25bbe1b6]" name="tearDown" is-config="true" duration-ms="647" started-at="2019-08-04T21:09:48Z" finished-at="2019-08-04T21:09:49Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.TestCases.LoginTest@6adede5]" name="tearDown" is-config="true" duration-ms="645" started-at="2019-08-05T20:22:44Z" finished-at="2019-08-05T20:22:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
